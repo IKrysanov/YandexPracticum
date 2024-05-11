@@ -16,7 +16,7 @@
 ### Команды для запуска тестов
 - Создать виртуальное окружение python -m venv venv
 - Включить виртуальное окружение source venv/Scripts/activate
-- Скачать все библиотеки pip install -r requiments.txt
+- Скачать все библиотеки pip install -r requirements.txt
 - pytest
 - pytest create_kit_name_kit_test.py
 ### Правила для написания проверок: 
